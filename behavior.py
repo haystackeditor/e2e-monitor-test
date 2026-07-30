@@ -1,2 +1,2 @@
 def current_behavior():
-    return "safe"
+    return "broken"
